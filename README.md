@@ -1,4 +1,4 @@
-# Balan-o-de-Par-nteses---1068---Beecrowd
+# Balanco de Parenteses-1068-Beecrowd
 Desafio 1068 da plataforma Beecrowd
 
 O desafio do código é verificar se os parenteses abertos estão fechados. Se sim, o output deve ser "correct", caso contrário deve ser "incorrect"
